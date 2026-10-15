@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Thu Oct  8 19:01:58 2026
+# Process ID         : 12664
+# Current directory  : C:/Users/ngova/Downloads/4 bit/4_bit_RISC_CPU_datapath/4_bit_RISC_CPU_datapath.runs/impl_1
+# Command line       : vivado.exe -log cpu_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source cpu_top.tcl -notrace
+# Log file           : C:/Users/ngova/Downloads/4 bit/4_bit_RISC_CPU_datapath/4_bit_RISC_CPU_datapath.runs/impl_1/cpu_top.vdi
+# Journal file       : C:/Users/ngova/Downloads/4 bit/4_bit_RISC_CPU_datapath/4_bit_RISC_CPU_datapath.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-A53R6Q5P
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16369 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 26033 MB
+# Available Virtual  : 6437 MB
+#-----------------------------------------------------------
+source cpu_top.tcl -notrace
