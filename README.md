@@ -142,4 +142,4 @@ To test the ALU alone, set `tb_alu` as top and run the same way.
 
 ## Author
 
-(add name) · (add institution) · October 2026
+Ngo Van Thang · October 2026
