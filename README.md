@@ -124,7 +124,7 @@ tb_cpu PASSED: 17 of 17 checks OK
 To test the ALU alone, set `tb_alu` as top and run the same way.
 
 <img width="624" height="180" alt="image" src="https://github.com/user-attachments/assets/4c52720d-0b9b-409f-8dec-26b0314934b0" />
-](docs/waveform.png)
+
 
 ## Known limitations
 
